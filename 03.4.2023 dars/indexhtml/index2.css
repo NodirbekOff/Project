@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+     padding: 0;
+    /* box-sizing: border-box; */ 
+    text-decoration: none;
+}
+header{
+background-image: url(./81237.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.navlogo img{
+    /*  font-size: 65px;
+    font-weight: bold;    color: #fff;
+     opacity: 0, 8;
+    font-family: 'Great Vibes', cursive; 
+    border-radius: 100px;
+    max-width: 200px; */
+    border-radius: 100px;
+    margin-top: 25px;
+    width: 200px;
+    height: 200px;
+}
+.navlogo h1{
+    color: aliceblue;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    margin-left: -5px;
+}
+.navlogo p{
+    color: aliceblue;
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+    margin-left: 45px;
+
+}
+.logotiv h3{
+    color: aliceblue;
+}
